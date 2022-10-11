@@ -1,5 +1,5 @@
 h1 {
-  color: darkgreen;
+  color: rgb(139, 215, 139);
   text-align: center;
 }
 
@@ -15,4 +15,8 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+body {
+  background-color: rgba(184, 62, 62, 0.853);
 }
